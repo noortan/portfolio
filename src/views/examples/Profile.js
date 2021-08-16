@@ -144,11 +144,10 @@ class Profile extends React.Component {
                     <Row className="justify-content-center">
                       <Col lg="9">
                         <p>
-                          An artist of considerable range, Ryan — the name taken
-                          by Melbourne-raised, Brooklyn-based Nick Murphy —
-                          writes, performs and records all of his own music,
-                          giving it a warm, intimate feel with a solid groove
-                          structure. An artist of considerable range.
+                        I have multiple talents such as writing stories and novels, in addition to that,
+                         my study of computer engineering gave me the opportunity to learn about the importance of
+                          software and its applications, so I have a great passion to learn more about technology in general
+                           and software and its development in particular.
                         </p>
                         <a href="#pablo" onClick={e => e.preventDefault()}>
                           Show more
